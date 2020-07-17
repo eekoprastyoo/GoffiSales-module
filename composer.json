@@ -1,0 +1,25 @@
+{
+    "name": "nwidart/goffisales",
+    "description": "",
+    "authors": [
+        {
+            "name": "Nicolas Widart",
+            "email": "n.widart@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Modules\\GoffiSales\\Providers\\GoffiSalesServiceProvider"
+            ],
+            "aliases": {
+
+            }
+        }
+    },
+    "autoload": {
+        "psr-4": {
+            "Modules\\GoffiSales\\": ""
+        }
+    }
+}

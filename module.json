@@ -1,0 +1,13 @@
+{
+    "name": "GoffiSales",
+    "alias": "goffisales",
+    "description": "",
+    "keywords": [],
+    "order": 0,
+    "providers": [
+        "Modules\\GoffiSales\\Providers\\GoffiSalesServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
