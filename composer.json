@@ -1,25 +1,11 @@
 {
-    "name": "nwidart/goffisales",
-    "description": "",
+    "name": "eekoprastyoo/goffi-sales-module",
+    "type": "laravel-module",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "eekoprastyoo",
+            "email": "eekoprastyoo@gmail.com"
         }
     ],
-    "extra": {
-        "laravel": {
-            "providers": [
-                "Modules\\GoffiSales\\Providers\\GoffiSalesServiceProvider"
-            ],
-            "aliases": {
-
-            }
-        }
-    },
-    "autoload": {
-        "psr-4": {
-            "Modules\\GoffiSales\\": ""
-        }
-    }
+    "require": {}
 }
